@@ -1,4 +1,8 @@
 
+footer hr {
+    border-top: 2px solid #F6F6F6;
+    color: white;
+}
 
 .footer_headline {
     text-transform: uppercase;
@@ -97,7 +101,7 @@ footer .links {
 }
 
 .footer_find {
-    padding: 20px 100px;
+    padding: 15px 100px;
     display: flex;
     justify-content: flex-start;
     font-size: 10px;
