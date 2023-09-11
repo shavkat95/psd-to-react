@@ -2,13 +2,21 @@
 @import "row2.css";
 @import "footer.css"; /* Using a string */
 @import "row3.css";
+@import "row4.css";
 @import "six_seven.css";
+
 
 
 html {
     color: white;
     font-family: "BMW Type Global Regular"; 
     color: rgb(38, 38, 38);
+    margin: 0px 0px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
 }
 
 
