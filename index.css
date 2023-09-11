@@ -1,6 +1,7 @@
 
-@import url('row2.css');
+@import "row2.css";
 @import "footer.css"; /* Using a string */
+@import "row3.css";
 
 
 html {

@@ -1,0 +1,71 @@
+.row_three{
+    background-image: url(https://www.bmw.co.uk/en/index/_jcr_content/root/maincontent/contentblueprint/contentblue_copy_cop_429753651/backgroundmedia/image.coreimg.jpeg/1690193052385/bmw-x-series-ix1-sp-desktop.jpeg);
+    height: 850px;
+    width: 100%;
+    background-size: cover;
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    color: white;
+    text-indent: 100px;
+}
+
+.row_three button {
+    color: white;
+    margin-left: 100px;
+    height: 50px;
+    width: 400px;
+    font-size: 16px;
+    border-radius: 3px;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.row_three_button1 {
+    background-color: rgb(28, 105, 212);
+    margin-bottom: 15px;
+}
+
+.row_three_button1:hover{
+    background-color: rgb(28, 100, 170);
+}
+
+.row_three_button2 {
+    background-color: rgb(38, 38, 38);
+}
+
+.row_three_button2:hover {
+    background-color: rgb(38, 50, 38);
+}
+
+.row_three_span1{
+    margin-top: 230px;
+}
+
+.row_three_span2{
+    font-size: 270px;
+}
+
+.row_three_span3{
+    font-size: 30px;
+}
+
+.row_three_span4{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.row_three_span5{
+    color: rgb(38, 38 ,38);
+}
+
+.row_three_addendum{
+    background-color: white;
+    text-indent: 100px;
+    margin-top: 10px;
+}
+
+.row_three_addendum span {
+    color: rgb(38, 38, 38);
+}
