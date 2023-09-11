@@ -40,7 +40,8 @@
 .row_two_button_container {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: stretch;
+    height: 70px;
     margin-top: 40px;
 }
 
