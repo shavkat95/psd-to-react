@@ -1,8 +1,9 @@
+@import "footer.css"; /* Using a string */
 
 
 html {
     color: white;
-    font-family: "BMW Type Web Light All"; 
+    font-family: "BMW Type Global Regular"; 
     color: rgb(38, 38, 38);
 }
 
