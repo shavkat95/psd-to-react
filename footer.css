@@ -19,7 +19,7 @@ footer ul {
     list-style: none;
 }
 
-footer a {
+footer .links a {
     color: rgb(77, 77, 77);
     font-weight: 700;
     font-size: .875rem;
@@ -29,7 +29,7 @@ footer a {
     
 }
 
-footer a:hover {
+footer .links a:hover {
     color: rgb(38, 38, 38);
 }
 
@@ -83,6 +83,10 @@ footer .links {
     line-height: 16px;
 }
 
+.policies a {
+    text-decoration: none;
+}
+
 .policy:hover {
     color: rgb(28, 105, 212);
 }
@@ -91,3 +95,34 @@ footer .links {
     font-size: 12px;
     font-weight: 300;
 }
+
+.footer_find {
+    padding: 20px 100px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.find_text {
+    margin-right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: .05rem;
+}
+
+.all_models {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.footer_find a {
+    text-decoration: none;
+    color: #262626;
+}
+
+.footer_find a:hover {
+    color: rgb(28, 105, 212);
+}
+
