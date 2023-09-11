@@ -1,8 +1,11 @@
+
 @import url('row2.css');
+@import "footer.css"; /* Using a string */
+
 
 html {
     color: white;
-    font-family: "BMW Type Global Regular";
+    font-family: "BMW Type Global Regular"; 
     color: rgb(38, 38, 38);
 }
 
