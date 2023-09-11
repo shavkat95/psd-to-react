@@ -18,11 +18,12 @@
 
 
 .content {
-    min-width: 42vw;
+    min-width: 40vw;
     display: flex;
     margin: 60px 10px;
     flex-direction: column;
     justify-content: space-around;
+    padding: 30px;
 }
 
 
@@ -58,7 +59,7 @@
 
 .row_6_span2 {
     text-align: left;
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 300;
 }
 
