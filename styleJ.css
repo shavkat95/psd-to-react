@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+}
+.everything{
+    background-image: url("./assets/Screenshot\ 2023-09-11\ at\ 09.41.43.png");
+    height: 100vh;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center;
+}
+.navbar{
+    width: 85vw;
+    margin-top: 2%;
+    border-bottom: solid 1px white;
+    padding: 1%;
+    display: flex;
+}
+.someText{
+    width: 85vw;
+    margin: 0;
+    color: white;
+    margin-top: 1%;
+}
+.leftNav{
+    display: flex;
+    width: 50%;
+}
+.everything{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.UL{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-left: 5%;
+}
+.rightNav{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 50%;
+}
+.LI{
+    margin-left: 4%;
+    color: white;
+    font-weight: bolder;
+}
+.UL .LI{
+    white-space: nowrap;
+}
+.someLogo{
+    height: 100%;
+    width: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.someLogo:hover{
+    border-bottom: solid 2px rgb(28, 105, 212);
+}
+.someLink{
+    height: 100%;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.someLink:hover{
+    border-bottom: solid 2px rgb(28, 105, 212);
+}
+.mainBit{
+    width: 85vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin: 0;
+}
+.someButton{
+    background-color: rgb(28, 105, 212);
+    border-style: none;
+    width: 13vw;
+    height: 7vh;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+.buttonH2{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.someButton :hover{
+    background-color: rgb(28, 50, 212);
+}
+.firstH2{
+    font-size: small;
+    margin: 0;
+}
+.someH1{
+    font-size: 4rem;
+    margin: 0;
+}
+.secondH2{
+    font-weight: lighter;
+}
